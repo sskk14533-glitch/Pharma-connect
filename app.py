@@ -29,7 +29,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DB_PATH = "/content/pharmaconnect/database/pharmaconnect.db"
+DB_PATH = "database/pharmaconnect.db"
 
 
 # ============================================================
